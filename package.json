@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tinacms/datalayer": "^2.0.26",
+    "fs-extra": "^11.3.6",
     "lucide-react": "^1.23.0",
     "next": "16.2.10",
     "next-auth": "^4.24.14",
